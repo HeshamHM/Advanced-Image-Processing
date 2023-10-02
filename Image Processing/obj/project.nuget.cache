@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z0JZFhPKSLXx5G5H2Iazknsz76HcI7Mw/SOosiIlDlb7txN9+5RTUu+m5KB777S8hAjCtMMMWINwq/MyxcLLsg==",
+  "success": true,
+  "projectFilePath": "F:\\C#Ado\\Image Processing\\Image Processing\\Image Processing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hesham\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

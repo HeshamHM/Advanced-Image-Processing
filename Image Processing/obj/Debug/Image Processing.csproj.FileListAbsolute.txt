@@ -1,0 +1,43 @@
+D:\C#Ado\Image Processing\Image Processing\bin\Debug\Image Processing.exe.config
+D:\C#Ado\Image Processing\Image Processing\bin\Debug\Image Processing.exe
+D:\C#Ado\Image Processing\Image Processing\bin\Debug\Image Processing.pdb
+D:\C#Ado\Image Processing\Image Processing\bin\Debug\Guna.UI2.dll
+D:\C#Ado\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.AssemblyReference.cache
+D:\C#Ado\Image Processing\Image Processing\obj\Debug\Image_Processing.Form1.resources
+D:\C#Ado\Image Processing\Image Processing\obj\Debug\Image_Processing.Properties.Resources.resources
+D:\C#Ado\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.GenerateResource.cache
+D:\C#Ado\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.CoreCompileInputs.cache
+D:\C#Ado\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.CopyComplete
+D:\C#Ado\Image Processing\Image Processing\obj\Debug\Image Processing.exe
+D:\C#Ado\Image Processing\Image Processing\obj\Debug\Image Processing.pdb
+D:\C#Ado\Image Processing\Image Processing\bin\Debug\Newtonsoft.Json.dll
+D:\C#Ado\Image Processing\Image Processing\bin\Debug\Interop.AcroPDFLib.dll
+D:\C#Ado\Image Processing\Image Processing\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\C#Ado\Image Processing\Image Processing\obj\Debug\Interop.AcroPDFLib.dll
+D:\C#Ado\Image Processing\Image Processing\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\C#Ado\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.ResolveComReference.cache
+D:\C#Ado\Image Processing\Image Processing\obj\Debug\Image_Processing.Docs.resources
+D:\C#Ado\Image Processing\Image Processing\bin\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+D:\C#Ado\Image Processing\Image Processing\obj\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+F:\C#Ado\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.AssemblyReference.cache
+F:\C#Ado\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.SuggestedBindingRedirects.cache
+F:\C#Ado\Image Processing\Image Processing\obj\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+F:\C#Ado\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.ResolveComReference.cache
+F:\C#Ado\Image Processing\Image Processing\obj\Debug\Image_Processing.Docs.resources
+F:\C#Ado\Image Processing\Image Processing\obj\Debug\Image_Processing.Form1.resources
+F:\C#Ado\Image Processing\Image Processing\obj\Debug\Image_Processing.Properties.Resources.resources
+F:\C#Ado\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.GenerateResource.cache
+F:\C#Ado\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.CoreCompileInputs.cache
+F:\C#Ado\Image Processing\Image Processing\obj\Debug\Image Processing.exe
+F:\C#Ado\Image Processing\Image Processing\obj\Debug\Image Processing.pdb
+F:\C#Ado\Image Processing\Image Processing\bin\Debug\Image Processing.exe.config
+F:\C#Ado\Image Processing\Image Processing\bin\Debug\Image Processing.exe
+F:\C#Ado\Image Processing\Image Processing\bin\Debug\Image Processing.pdb
+F:\C#Ado\Image Processing\Image Processing\bin\Debug\Newtonsoft.Json.dll
+F:\C#Ado\Image Processing\Image Processing\bin\Debug\Guna.UI2.dll
+F:\C#Ado\Image Processing\Image Processing\bin\Debug\Interop.AcroPDFLib.dll
+F:\C#Ado\Image Processing\Image Processing\bin\Debug\AxInterop.AcroPDFLib.dll
+F:\C#Ado\Image Processing\Image Processing\bin\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+F:\C#Ado\Image Processing\Image Processing\obj\Debug\Interop.AcroPDFLib.dll
+F:\C#Ado\Image Processing\Image Processing\obj\Debug\AxInterop.AcroPDFLib.dll
+F:\C#Ado\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.CopyComplete
